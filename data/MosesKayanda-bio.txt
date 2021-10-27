@@ -1,0 +1,3 @@
+I am a recent graduate of Health Informatics at University of San Francisco, where I developed Data Science skills in Statistics, Machine Learning methods (deep learning + NLP), Programming using R and Python languages and effective data presentation.
+
+I did my internship at UCSF Department of Radiation Oncology., where I was advised by Dr. Alon Witztum. Our project focused on developing data-driven methods to maximize department's resource allocation. I did my undergraduate in Economics at Daystar University Kenya. I also have experience working in telecommunication civil engineering field as an Operations Manager where I successfully implemented multiple projects.
